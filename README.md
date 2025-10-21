@@ -10,9 +10,9 @@ Here is a structured reference of all the main Prisma queries.
 ```ts
 const user = await prisma.user.create({
   data: {
-    name: "Jhankar Mahbub",
-    email: "jkr@ph.com",
-    profilePhoto: "https://programing-hero.com/level2/jkr.png"
+    name: "sadman shakib",
+    email: "sadmansakib1075@gmail.com",
+    profilePhoto: "https/:sdjlsjdljsldj"
   }
 });
 ````
